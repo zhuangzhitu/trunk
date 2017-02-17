@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:id="@+id/activity_create_project"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/graywhite"
+                android:clipToPadding="true"
+                android:fitsSystemWindows="true"
+                android:orientation="vertical"
+    >
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:overScrollMode="never"
+        android:scrollbars="none">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingBottom="25dp"
+            >
+
+            <cn.cassan.pm.widget.TitleView
+                android:id="@+id/titleview"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:background="@color/white40"
+                android:clickable="true"
+                app:ImageLeft="@drawable/rp_back_arrow_white"
+                app:TextLeft="@string/btnBack"
+                app:TitleText="@string/acc_managerproject"/>
+
+            <View
+                android:background="@color/graywhite"
+                android:layout_width="match_parent"
+                android:layout_height="25dp"/>
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_adver"
+                style="@style/InfoItemLayout"
+
+                app:LeftText="@string/projectadver"
+                app:TopLongLine="true"
+                app:isImage="true"/>
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_name"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_name"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_location"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_location"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/getLocation"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_getlocation"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_manager"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_manager"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_company"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_company"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_starttime"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_starttime"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_alltime"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_alltime"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_built_area"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_built_area"
+                app:TopLongLine="true"
+                />
+
+            <cn.cassan.pm.widget.InfoItemLayout
+                android:id="@+id/tv_project_contract_cost"
+                style="@style/InfoItemLayout"
+                app:LeftText="@string/project_contract_cost"
+                app:TopLongLine="true"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_projectdele"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="20dp"
+        android:background="#FF3B30"
+        android:gravity="center"
+        android:text="@string/project_delete"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        />
+</RelativeLayout>

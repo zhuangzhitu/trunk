@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AboutUs">关于我们</string>
+    <string name="title_activity_document">文档资料</string>
+    <string name="title_activity_edit_project">编辑项目</string>
+</resources>

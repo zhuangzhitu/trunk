@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="?attr/layout_item_bg"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:background="#f1f1f1"
+        >
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="6dip"
+            android:background="#e1e1e1"
+            android:gravity="center"
+            android:hint="搜索"
+            android:textSize="14dip"
+            />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dip"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        tools:ignore="DisableBaselineAlignment">
+
+        <LinearLayout
+            android:id="@+id/ll_pm_create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_pm_creat"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dip"
+                android:text="创建项目"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_pm_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_pm_phone"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dip"
+                android:text="手机通讯录"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_pm_friend"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_pm_friend"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dip"
+                android:text="广众好友"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_pm_group"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+
+            <ImageView
+                android:layout_width="45dip"
+                android:layout_height="45dip"
+                android:src="@drawable/icon_pm_group"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dip"
+                android:text="我的群组"
+                android:textSize="12sp"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="8dip"
+        android:background="#eeeeee"/>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white">
+
+        <ScrollView
+            android:id="@+id/activity_contacts_main_scrollview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <!-- 上半部 -->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="36dip"
+                    android:layout_marginLeft="15dip"
+                    android:gravity="center_vertical"
+                    android:text="项目列表"
+                    android:textColor="#266688"
+                    android:textSize="13dip"
+                    />
+
+                <View style="@style/viewlinestyle"/>
+
+                <cn.cassan.pm.widget.MyListViewWithScrollView
+                    android:id="@+id/listview_project"
+                    style="@style/contactslistview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="8dip"
+                    android:background="#eeeeee"/>
+
+                <!-- 下半部 -->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="36dip"
+                    android:layout_marginLeft="15dip"
+                    android:gravity="center_vertical"
+                    android:text="常用联系人"
+                    android:textColor="#266688"
+                    android:textSize="13dip"
+                    />
+
+                <cn.cassan.pm.widget.MyListViewWithScrollView
+                    android:id="@+id/listview_contact"
+                    style="@style/contactslistview"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"/>
+
+                <View style="@style/viewlinestyle"/>
+
+
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+
+
+    <!-- google 官方下拉刷新 -->
+    <!--<android.support.v4.widget.SwipeRefreshLayout-->
+    <!--android:id="@+id/swiperefreshlayout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:visibility="visible">-->
+
+    <!--<ListView-->
+    <!--android:id="@+id/listview"-->
+    <!--android:layout_width="fill_parent"-->
+    <!--android:layout_height="fill_parent"-->
+    <!--android:divider="?attr/lineColor"-->
+    <!--android:dividerHeight="1px"-->
+    <!--android:listSelector="@color/transparent"-->
+    <!--android:scrollbars="none"-->
+    <!--android:scrollingCache="true" />-->
+    <!--</android.support.v4.widget.SwipeRefreshLayout>-->
+
+    <!--<cn.cassan.pm.ui.EmptyLayout-->
+    <!--android:id="@+id/error_layout"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:visibility="visible" />-->
+
+
+</LinearLayout>

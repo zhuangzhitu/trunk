@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/project_item"
+              android:layout_width="match_parent"
+              android:layout_height="55dp"
+              android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dip">
+
+        <cn.cassan.pm.widget.CircleImageView
+            android:id="@+id/iv_workbenchnotice"
+            android:layout_width="45dip"
+            android:layout_height="45dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge">
+
+            <TextView
+                android:id="@+id/tv_workbenchnotice_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:maxLines="1"
+                android:text="施工动态"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#333333"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/tv_workbenchnotice_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="3dip"
+                android:maxLines="1"
+                android:text="张工发送了施工动态"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#999999"
+                android:textSize="12sp"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="0.2"
+            android:orientation="vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge">
+
+            <TextView
+                android:id="@+id/tv_workbenchnotice_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:maxLines="1"
+                android:text="15:30"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#333333"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/tv_workbenchnotice_count"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/ease_unread_count_bg"
+                android:maxLines="1"
+                android:text="1"
+                android:textAlignment="center"
+                android:textColor="@color/white"
+                android:textSize="12sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

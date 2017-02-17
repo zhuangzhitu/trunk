@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="border_width" format="dimension"/>
+        <attr name="border_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="slidingBlock" format="reference|color"/>
+        <attr name="allowWidthFull" format="boolean"/>
+        <attr name="disableViewPager" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="RefreshLayout">
+        <attr name="footer_view_background" format="color"/>
+        <attr name="footer_view_text_color" format="color"/>
+        <attr name="is_need_footer" format="boolean"/>
+    </declare-styleable>
+
+    <attr name="drawLeft" format="reference"></attr>
+    <attr name="drawRight" format="reference"></attr>
+
+    <attr name="TopLongLine" format="boolean"></attr>
+    <attr name="TopshortLine" format="boolean"></attr>
+    <attr name="BottomLongLine" format="boolean"></attr>
+
+    <attr name="LeftText" format="reference"></attr>
+    <declare-styleable name="TitleView">
+        <attr name="TitleText" format="reference|string"></attr>
+        <attr name="ImageLeft" format="reference"></attr>
+        <attr name="ImageRight" format="reference"></attr>
+        <attr name="drawLeft"></attr>
+        <attr name="drawRight"></attr>
+        <attr name="TextLeft" format="reference|string"></attr>
+        <attr name="TextRight" format="reference|string"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="InfoItemLayout">
+        <attr name="TopLongLine"></attr>
+        <attr name="TopshortLine"></attr>
+        <attr name="BottomLongLine"></attr>
+        <attr name="LeftText"></attr>
+        <attr name="isImage" format="boolean"></attr>
+        <attr name="hintText" format="reference|string"></attr>
+    </declare-styleable>
+    <declare-styleable name="MyEditText">
+        <attr name="drawLeft"></attr>
+        <attr name="isMust" format="boolean"></attr>
+        <attr name="drawRight"></attr>
+    </declare-styleable>
+    <declare-styleable name="searchedit">
+        <attr name="imagewidth" format="dimension"/>
+        <attr name="mtextSize" format="dimension"/>
+        <attr name="mtextColor" format="color"/>
+    </declare-styleable>
+
+        <declare-styleable name="QuickSideBarView">
+            <attr name="sidebarTextColor" format="color|reference"/>
+            <attr name="sidebarBackgroundColor" format="color|reference"/>
+            <attr name="sidebarTextColorChoose" format="color|reference"/>
+            <attr name="sidebarTextSize" format="dimension"/>
+            <attr name="sidebarTextSizeChoose" format="dimension"/>
+            <attr name="sidebarItemHeight" format="dimension"/>
+        </declare-styleable>
+
+    <declare-styleable name="CirclePagerIndicator">
+        <attr name="circle_indicator_centerHorizontal" format="boolean"/>
+        <attr name="circle_indicator_follow" format="boolean"/>
+        <attr name="circle_indicator_orientation" format="reference"/>
+        <attr name="circle_indicator_color" format="color"/>
+        <attr name="circle_indicator_stroke_color" format="color"/>
+        <attr name="circle_indicator_stroke_width" format="dimension"/>
+        <attr name="circle_indicator_fill_color" format="color"/>
+        <attr name="circle_indicator_radius" format="dimension"/>
+        <attr name="circle_indicator_space" format="dimension"/>
+        <attr name="circle_indicator_indicator_radius" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="LinePagerIndicator">
+        <attr name="line_indicator_centerHorizontal" format="boolean"/>
+        <attr name="line_indicator_width" format="dimension"/>
+        <attr name="line_indicator_height" format="dimension"/>
+        <attr name="line_indicator_indicator_height" format="dimension"/>
+        <attr name="line_indicator_space" format="dimension"/>
+        <attr name="line_indicator_fill_color" format="color"/>
+        <attr name="line_indicator_indicator_color" format="color"/>
+        <attr name="line_indicator_follow" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="FlowLayout">
+        <attr name="verticalSpace" format="dimension"/>
+        <attr name="horizontalSpace" format="dimension"/>
+    </declare-styleable>
+
+    <!--easeui_begin-->
+
+    <declare-styleable name="EaseChatMessageList">
+        <attr name="msgListMyBubbleBackground" format="reference"/>
+        <attr name="msgListOtherBubbleBackground" format="reference"/>
+        <attr name="msgListShowUserAvatar" format="boolean"/>
+        <attr name="msgListShowUserNick" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseConversationList">
+        <attr name="cvsListPrimaryTextColor" format="color"/>
+        <attr name="cvsListSecondaryTextColor" format="color"/>
+        <attr name="cvsListTimeTextColor" format="color"/>
+        <attr name="cvsListPrimaryTextSize" format="dimension"/>
+        <attr name="cvsListSecondaryTextSize" format="dimension"/>
+        <attr name="cvsListTimeTextSize" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseContactList">
+        <attr name="ctsListPrimaryTextColor" format="color"/>
+        <attr name="ctsListPrimaryTextSize" format="dimension"/>
+        <attr name="ctsListShowSiderBar" format="boolean"/>
+        <attr name="ctsListInitialLetterBg" format="reference|color"/>
+        <attr name="ctsListInitialLetterColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseEmojiconMenu">
+        <attr name="bigEmojiconRows" format="integer"/>
+        <attr name="emojiconColumns" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseChatExtendMenu">
+        <attr name="numColumns" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseTitleBar">
+        <attr name="titleBarTitle" format="string"/>
+        <attr name="titleBarLeftImage" format="reference"/>
+        <attr name="titleBarRightImage" format="reference"/>
+        <attr name="titleBarBackground" format="reference|color"/>
+    </declare-styleable>
+
+    <declare-styleable name="EaseSwitchButton">
+        <attr name="switchOpenImage" format="reference"/>
+        <attr name="switchCloseImage" format="reference"/>
+        <attr name="switchStatus">
+            <enum name="open" value="0"/>
+            <enum name="close" value="1"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="EaseImageView">
+        <attr name="ease_border_color" format="color"/>
+        <attr name="ease_border_width" format="dimension"/>
+        <attr name="ease_press_alpha" format="integer"/>
+        <attr name="ease_press_color" format="color"/>
+        <attr name="ease_radius" format="dimension"/>
+        <attr name="ease_shape_type" format="enum">
+            <enum name="none" value="0"/>
+            <enum name="round" value="1"/>
+            <enum name="rectangle" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <!--easeui_end-->
+
+    <!--redpack_begin-->
+    <declare-styleable name="app">
+        <attr name="RPmytitle" format="string"/>
+        <attr name="RPleftImage" format="reference"/>
+        <attr name="RPrightImage" format="reference"/>
+        <attr name="RPrightText" format="string"/>
+        <attr name="RPrightTextColor" format="reference|color"/>
+        <attr name="RPrightTextSize" format="dimension"/>
+        <attr name="RPsubTitleText" format="string"/>
+        <attr name="RPsubTitleTextColor" format="reference|color"/>
+        <attr name="RPsubTitleTextSize" format="dimension"/>
+        <attr name="RPtitleTextColor" format="reference|color"/>
+        <attr name="RPtitleTextSize" format="dimension"/>
+        <attr name="RPtitleBackground" format="reference|color"/>
+    </declare-styleable>
+
+    <declare-styleable name="gridPasswordView">
+
+        <attr name="gpvTextColor" format="color|reference"/>
+        <attr name="gpvTextSize" format="dimension"/>
+
+        <attr name="gpvLineColor" format="color"/>
+        <attr name="gpvGridColor" format="color"/>
+        <attr name="gpvLineWidth" format="dimension"/>
+
+        <attr name="gpvPasswordLength" format="integer"/>
+        <attr name="gpvPasswordTransformation" format="string"/>
+
+        <attr name="gpvPasswordType" format="enum">
+            <enum name="numberPassword" value="0"/>
+            <enum name="textPassword" value="1"/>
+            <enum name="textVisiblePassword" value="2"/>
+            <enum name="textWebPassword" value="3"/>
+        </attr>
+
+    </declare-styleable>
+
+
+    <!--RecyclerView-->
+    <declare-styleable name="RPRecyclerView">
+        <!-- Class name of the Layout Manager to be used.
+        <p/>
+        The class must extend android.support.v7.widget.RecyclerView$LayoutManager
+        and have either a default constructor or constructor with the signature
+        (android.content.Context, android.util.AttributeSet, int, int).
+         <p/>
+         If the name starts with a '.', application package is prefixed.
+         Else, if the name contains a '.', the classname is assumed to be a full class name.
+         Else, the recycler view package name (android.support.v7.widget) is prefixed. -->
+        <attr name="RPlayoutManager" format="string"/>
+
+        <!-- ============================= -->
+        <!-- Attributes for Layout Manager -->
+        <!-- ============================= -->
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="RPspanCount" format="integer"/>
+        <attr name="RPreverseLayout" format="boolean"/>
+        <attr name="RPstackFromEnd" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="RPRoundCard">
+        <attr name="RPCardBgImg" format="reference"/>
+        <attr name="RPCardBgColor" format="reference|color"/>
+        <attr name="RPCardRadius" format="dimension"/>
+        <attr name="RPCardBgType" format="integer"/>
+    </declare-styleable>
+    <!--redpack_end-->
+
+
+    <declare-styleable name="ContactItemView">
+        <attr name="contactItemImage" format="reference"/>
+        <attr name="contactItemName" format="string"/>
+    </declare-styleable>
+
+    <declare-styleable name="com_facebook_login_view">
+        <attr name="com_facebook_confirm_logout" format="boolean"/>
+        <attr name="com_facebook_login_text" format="string"/>
+        <attr name="com_facebook_logout_text" format="string"/>
+        <attr name="com_facebook_tooltip_mode">
+            <!-- Keep in sync with Enums in LoginButton -->
+            <enum name="automatic" value="0"/>
+            <enum name="display_always" value="1"/>
+            <enum name="never_display" value="2"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="com_facebook_profile_picture_view">
+        <attr name="com_facebook_preset_size">
+            <!-- Keep in sync with constants in ProfilePictureView -->
+            <enum name="small" value="-2"/>
+            <enum name="normal" value="-3"/>
+            <enum name="large" value="-4"/>
+        </attr>
+        <attr name="com_facebook_is_cropped" format="boolean"/>
+    </declare-styleable>
+    <declare-styleable name="com_facebook_like_view">
+        <attr name="com_facebook_foreground_color" format="color"/>
+        <attr name="com_facebook_object_id" format="string"/>
+        <attr name="com_facebook_object_type">
+            <!-- Keep in sync with Enums in Likeview -->
+            <enum name="unknown" value="0"/>
+            <enum name="open_graph" value="1"/>
+            <enum name="page" value="2"/>
+        </attr>
+        <attr name="com_facebook_style">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="standard" value="0"/>
+            <enum name="button" value="1"/>
+            <enum name="box_count" value="2"/>
+        </attr>
+        <attr name="com_facebook_auxiliary_view_position">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="bottom" value="0"/>
+            <enum name="inline" value="1"/>
+            <enum name="top" value="2"/>
+        </attr>
+        <attr name="com_facebook_horizontal_alignment">
+            <!-- Keep in sync with Enums in LikeView -->
+            <enum name="center" value="0"/>
+            <enum name="left" value="1"/>
+            <enum name="right" value="2"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="PraiseListView">
+        <attr name="item_color" format="color"/>
+        <attr name="item_selector_color" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="ExpandTextView">
+        <attr name="showLines" format="integer"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_940c4e2a71f1ef7817d3ca6612b264a38dae3ff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_2af801be5f67e34d053e212d5768b51145e2a4c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_434ab3b1c00afe62d7378c4d0a576848a1fb728b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_2952015a7d5cea092350503d8812d7a8d7f3fd6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_54cd4c68b102db338a8ed4a3251d3c3b6c93cab7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_b6ebce1a0fc888934ca53440e9598c055d7c1238\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.makeramen\roundedimageview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2e76a4b693db19fdde80d30123204d0ed2454ea9">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.makeramen-roundedimageview-2.1.1_1cbdbcb1084f72f1d9cbb163e58c3f6fe7b15cba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\universal-image-loader-1.9.4-with-sources.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="40595dbd3e3f1b87b27e914340d0e7dfd2d5b3d3">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.4-with-sources_1aecce47cda6dee0066f0f47427c5fb5b9391a23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\org.kymjs.kjframe\kjframe\2.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60538003caaf7201ec4945bae8071c9e38b3cd91">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\org.kymjs.kjframe-kjframe-2.6_0f30c5c29f187eb4de33116b27afda9a770efa14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.malinskiy\superrecyclerview\1.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a9ee7bc61bec4070d7412c7ea45968eef3b7d9b">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.malinskiy-superrecyclerview-1.1.4_96c5fc1cdfc044f93c5f3c58181d314a0e54d70a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_ffa8a74509ee583b717afbe7a40fb92150028fe6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.github.chrisbanes\PhotoView\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="81d41e53c215976ce172b9f61ef1e8fc2d67cf79">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.chrisbanes-PhotoView-1.3.0_77f69d61516519c1ab6486f501314c75552589ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.3.1\6904771474c058abfc5912c13d12b02754712165\leakcanary-watcher-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-watcher-1.3.1_52ed60c3cfefe5efa98f7dc7c1aa6859c236acc5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_05aa7903c81707772a5bdd1f61a688c0c025d679\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_95ee75792b1ba842bf16e43852dde2dbcb8307e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_fa719493f35ea339741c93fac805603a645989a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_cec42a271fe9fe23cfb5e39a92f679aa542125a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_dc3eab3c4484ebbbe2f1c912d38fa9aa7eb05ff3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.apache.http.legacy_ecbf4fb6d20661f921237abb50c024f5ef2b61a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\net.qiujuer.genius\ui\2.0.0-beta8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7b210d15ae27f659b57f5e1a214892da02afe514">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.qiujuer.genius-ui-2.0.0-beta8_79129ad6de0293d48ce692c1105fc418cae4bfd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_e40b65269ad945439f158796e118bb5cc0fe0eb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_e1d2d7b0f02f5696149d29c1b899c0188af09044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_7a568c1d8fd119ceb9a006211b7fc000b9bd1fd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c4835b3f6fc91ac37567dbaa26249cdf193286b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\alipaySdk-20160516.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\alipaySdk-20160516_e0eb6c51c1bba5f9ce79e6e979f53642b6bc326b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_fc5def3df17195ebd62fdef8b2af70bf901b04f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_75ae81ac808ce8c614544b8fbe662469b9652dff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_8cc87942cec3d14bc6048a706892d42f4a217822\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.loopj.android\android-async-http\1.4.9\386a4339ffe52d5d63e80f9bed8d2b1d1a418249\android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-async-http-1.4.9_84d4bd66f8cad624bcdcc86f55ed20f5517877c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="665ab0b2388096fc5b6de9d99a07e7b29958749a">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6b6a26071de14547362b55f1586bd4ea9268575b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_f36137950740192b23c0f6d0ced2e58080985ead\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.1.3_fbf4468c3217cc7c9217e2fac69e54c25054c1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_d39fe26e906eed229cc8d8b156ddd212ad2e7853\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\bolts-android-1.1.4_d6b17b062f8b8aa089b3bcd1829f8c82c32d865a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\net.qiujuer.genius\res\2.0.0-beta8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1e5534b415b98b8e8eebab8c9be533f9ca3a4000">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.qiujuer.genius-res-2.0.0-beta8_c97a54b1cbb10e2145db39ca2be5c569d79ee247\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_02cd21ad80c03734881bd39a0cae43eee29d2094\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\pub.devrel\easypermissions\0.1.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="840a3dc7e0f038738fc354160a9ef7ce535d04ff">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\pub.devrel-easypermissions-0.1.7_dc3e5288076ebe20e3a4657ae046160c07373f5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_92d44307f48fc43f834f2aac2d79b10ed7242690\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_f17170305b1f6afa9407583aa0aaf48812576343\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\redpacket-3.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="948e8b24793531be236af1a66e894781942d86a8">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\redpacket-3.1.1_d804feb61db66e4057ec81e489a9a8ce361f880d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.0\e019d15a13a9786f881141d2df6654b8510bce8b\core-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\core-3.2.0_4be72ef6e9f7b34674c8be314515d122c177ea37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.19\a8f23f65fc1e522ee4a1a697ee569901a46741fa\library-1.0.19.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.19_78f0bb23743784ba5177d1b9659f6fa6d6a7bd06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_ab4174b2a7ff812ef3f12a8a0c0c5c83878bfe59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_002b7fbf7a0de167c934ae8280ecce1c989b18df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_e29f7a74432cc1a91995e7f5dce16617e7d14534\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_d7dc410e67aaca49f8b4c44980af2764f79cf89a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_0d5651bf9986292883a506816080be5a70f0d1dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_0181f516e0825ef225ac152ce3335661657563bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_f58d4f88302a7639aa2cdabcdc7ec58855edc792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c0537c0343841671b82db992ae1621919631faa3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.mikhaellopez\circularprogressbar\1.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="bf3c6cdf3e1aa3b54debc3026480fcdf1e506df5">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularprogressbar-1.1.1_322cb3744a344d6c039b57f8e4abe7e1d2ac783a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.0.0_e2a1bcfacff39aefb009e441a41ab98a289975a6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_d5915916e5ad40c432495c0857b882b1a7881101\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\net.qiujuer.genius\graphics\2.0.0-beta8\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e9d9f6b5024b1f321bee54dc972f59583743c7c2">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\net.qiujuer.genius-graphics-2.0.0-beta8_2eef9b8a4e8ed53d0a8fc095edb8adefff0233ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_012a328607ff51efd33dfd1ce20ea06f014bd4e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2ca92f241844e79daa8fbb21d6a70c921cd60e73\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_9247baeb804717507ed5f6e8769cab672e22fafc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.wj.refresh\PullRefreshLayout\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e71f40841bea1e0b5e5e8206fcad24760c6430eb">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.wj.refresh-PullRefreshLayout-1.0.1_152be414b0199333f54d9335500f601150d6714c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.squareup.leakcanary-leakcanary-android-1.3.1_f83cbf0230da6f98996a7e2a4c779cc3ed5ffe60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_af8a58d40d2d15cd7cf4e71d7430c38126e86711\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_713a56332295f20dbc6280ea0fc114d8cabe06ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_5fc9da161c35ab212bd213693531b1eaaa3160d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_194d32649f5df8ae030781eb8b579fb4bfb8be1b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_1f3ddf859a86296da03fddcf50d19f29d652df81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_1b0940e23024a3b431b18ddcff6b8914b04e69d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.haha\haha\1.3\d2c832f9d14a11c79f58a7ee2e10526a12152c72\haha-1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\haha-1.3_2de8629f8471de321d4f185494a8420d2b7db5be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_6f47721ac5da882d4e8e5d4b60f4dcf9d0f781dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_521c1647eee1e1fd977980f2f1db11831ba1cef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_469dbc65c63eb619f6b67cc37c1c3e34c5368ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_03f6d21b9d7091e1fb9abed720d8efde92cd0704\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_880d6a26afefd9668ca105e122b22993e0bc8e44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_fc861cbde294a7e4a9efd57936d766cb077b60e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.umeng.analytics\analytics\6.0.4\27238b0acdc4e764623a653d5776488783e9ae3f\analytics-6.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27238b0acdc4e764623a653d5776488783e9ae3f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\analytics-6.0.4_a86dfe223162e99010e77379cbc1abdc0eeec698\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_a6836399ea828b067a1062eba88ee2ab5cdc870d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_9eb07163fa40465709a7abc60c547b10f5b666a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_70583b69178f808cdafa3539e03c08524c31401c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\cn.aigestudio.wheelpicker\WheelPicker\1.1.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7c27aea45fb254d37cb280bdd770a358d9b0fd2e">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\cn.aigestudio.wheelpicker-WheelPicker-1.1.2_b304e610ce56579d94f3c909025c6d8af2942f60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.3.1\325e7401a7ea16918eb39ba8baad8fd5561a55d3\leakcanary-analyzer-1.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\leakcanary-analyzer-1.3.1_bff71017ec040d96040347847022b3e63832fca9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\parse-android-1.13.0_2b4367d74dc0e1b8a8e9dd9df5b1b1ebf8bcdd7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\umeng-update-v2.6.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7bfeea30c4995f90a4374ce4177772a4579f2797">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng-update-v2.6.0.1_cef30a77959eb08aaddafacc3d7122dcbd96949b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_0b47e1e398fccc5a7c1225075fde45459baff45c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_4e12fab07fc830649bccdc57b74d06c1c9f498a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_e3eacf60f92c085d1c5b6dfb28e253b4cefd7f9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_39d6b0442dc8ca019f96dd1e3658626dddc52505\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_fd557d1791a999ab59a5575f59b2b445543c3e4a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_4d5ad804839e87235826a9cdb75d79de2cf92646\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_d03355e448b51fdb8871ce9ec81dc97486f40d49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\pushservice-5.0.0.66.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9afe4817302f358bdd51cc7c4c88f5ede2e70168">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\pushservice-5.0.0.66_3d40bc5b0441131b8d1a396cbdc50a986051b7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.romandanylyk\pageindicatorview\0.0.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="45a2d4e8789a44a5c7fa694148d9b8d7a23dabbc">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.romandanylyk-pageindicatorview-0.0.4_ab81de2521a9133886c352fda8c7adadfeff29ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\hyphenatechat_3.1.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c7782ef42348cc93bbca6d3971328c249cf98c5f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\hyphenatechat_3.1.5_40b663ef507fc1b43e506300d67538be82adf04e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_27f88b9fe6884b4297c7f9475f2226410eb067fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_9e98ba834da3c31cbcddab3eae6d900033a360d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2630ec324a5e950b393f6837b9220da767b410df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="968f777d5c5a243e9b2fe00e6eef844bc1a77c2b">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6e2afcde0d1f3498c18c4e85886b3b34f288814e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_a87da58f9f792bbe9f34099dff302989648472e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.joanzapata.android\android-iconify\1.0.9\27817b0ae26d4fa788711f1f75aaa45d76901722\android-iconify-1.0.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="27817b0ae26d4fa788711f1f75aaa45d76901722">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-iconify-1.0.9_9f26a572fca93829e5f1ad81b5df4457ccddbc2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\pinyin4j-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="28a019bad5e1233094def85a752f6c6d2501155d">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\pinyin4j-2.5.0_6c86135db7600c7908d936acc1c8365037df653a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_25e63682ba6eb9c78c6a3e803793f1c625ad3715\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_9a1664829071a9ffba0530f4a9d6a9da6e79456c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_98a89059df946637652dc320815c6108da6f68e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_062967bbb837eade199331c2ca29189f0a34c000\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_3d955d83461fa982a68686a5475e3ea2ea223191\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="03e186fabdab66983e2b2aa42a2b2de7cb37dc4a">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_sdk_456113c0753b35683985279cf3f8f0fe74431519\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_32522fbbd5a5bdc1466acb3d21eeef54715e28d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="74ea27780e60218dd8275e57cb89da046af9a1bb">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\2\BaiduLBS_Android_bda398302d8a749efe19a8b555793df202e973ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.2.1_399d8b28aaf1627e1735d4c1fae67a9c259a76e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\cz.msebera.android\httpclient\4.3.6\526a9f794eab830eae4f23a62c572878b3f491ab\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\httpclient-4.3.6_8bf35ee2bba818564cbd6641d936c584519fade0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_38d0519b6ed45452a40406f1ed10c9ff24b82c0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.github.kayvannj\PermissionUtils\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8f0a8c28e5799ecbdde92a1950d340eb24c9e274">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.kayvannj-PermissionUtils-1.0.3_31499f701875fec967dd711c6cb7b42a1b9614b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_4e9205bc9d42a5cfa86d488ffa9ee9f9463bea62\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_0d0c68d7c8a8f6dc2201cb74f720e9577d4e585d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_9ddc2c3273e9f4154e0df93977e82830679c3215\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\myshixi\trunk\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="D:\myshixi\trunk\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_2a7ba9134892d7decbd53b331158a75f938be34e\classes.dex" />
+    </item>
+
+</items>

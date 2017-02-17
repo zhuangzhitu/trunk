@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="55dp"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/data_image_type"
+            android:layout_width="30dip"
+            android:layout_height="30dip"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/default_datatype"/>
+
+        <TextView
+            android:id="@+id/data_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/data_image_type"
+            android:gravity="center"
+            android:layout_marginLeft="15dp"
+            android:paddingTop="10dp"
+            android:textColor="@color/gray_pressed"
+            android:textSize="15sp"
+            tools:text="jpg"/>
+
+        <TextView
+
+            android:id="@+id/data_createtime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="10dp"
+            android:paddingRight="15dp"
+            android:paddingTop="10dp"
+            android:textColor="@color/gray_pressed"
+            tools:text="2016-10-1"/>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/data_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:textSize="14sp"
+        tools:text="XXX标题"/>
+
+    <View
+        style="@style/mDivideLine"
+        android:layout_marginTop="5dp"/>
+</LinearLayout>

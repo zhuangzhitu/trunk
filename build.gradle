@@ -1,0 +1,24 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.2.3'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+        maven { url "https://jitpack.io" }
+    }
+    ext {
+        compileSdkVersion = 23
+        buildToolsVersion = "23.0.3"
+        applicationId = "cn.cassan.pm"
+        minSdkVersion = 15
+        targetSdkVersion = 22
+        versionCode = 266
+        versionName = "v1.0.1(1610112016)"
+    }
+}

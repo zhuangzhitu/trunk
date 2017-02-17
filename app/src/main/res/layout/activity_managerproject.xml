@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/gray2"
+              android:clipToPadding="true"
+              android:fitsSystemWindows="true"
+              android:orientation="vertical">
+
+    <cn.cassan.pm.widget.TitleView
+        android:id="@+id/titleview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/white40"
+        android:clickable="true"
+        app:ImageLeft="@drawable/rp_back_arrow_white"
+        app:TextLeft="@string/btnBack"
+        app:TitleText="@string/managerproject"/>
+
+    <FrameLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="#666"
+            android:contentDescription="@null"
+            android:scaleType="fitXY"
+            android:src="@drawable/icon_project_background"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <cn.cassan.pm.widget.CircleImageView
+                android:id="@+id/project_avatar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="30dp"
+                tools:src="@drawable/defaultavatar"/>
+
+            <TextView
+                android:id="@+id/projectname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                tools:text="水木工程"/>
+
+            <TextView
+                android:id="@+id/projectlocation"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:textColor="@color/graywhite"
+                android:textSize="15sp"
+                tools:tools="广东 东莞"/>
+
+            <TextView
+                android:id="@+id/istrial"
+                android:layout_width="40dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="15dp"
+                android:background="@drawable/btn_myshape"
+                android:gravity="center"
+                android:text="试用"
+                android:textColor="@color/graywhite"
+                android:textSize="15sp"
+                android:visibility="gone"/>
+        </LinearLayout>
+    </FrameLayout>
+
+
+    <View
+        style="@style/mDivideLine"/>
+
+    <RelativeLayout
+        android:id="@+id/item_projecteidt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/icon_projecteidt"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:paddingLeft="20dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/icon_projecteidt"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/icon_projecteidt"
+            android:baselineAligned="false"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_projecteidt"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="工程项目信息"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"
+                android:text="工程项目信息"
+                android:textColor="@color/gray_pressed"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/ic_arrow_right"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/mDivideLine"/>
+
+    <RelativeLayout
+        android:id="@+id/item_projectsetanim"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/icon_projectsetanim"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:paddingLeft="20dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/icon_projectsetanim"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/icon_projectsetanim"
+            android:baselineAligned="false"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_projectsetanim"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="部门和成员管理"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"
+                android:text="添加子部门和成员"
+                android:textColor="@color/gray_pressed"/>
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/ic_arrow_right"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/mDivideLine"/>
+
+    <RelativeLayout
+        android:id="@+id/item_projectsetmember"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/icon_projectsetmember"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"
+            android:paddingLeft="20dp"
+            android:paddingRight="10dp"
+            android:src="@drawable/icon_projectsetmember"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@+id/icon_projectsetmember"
+            android:baselineAligned="false"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_projectsetmember"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:paddingLeft="10dp"
+                android:paddingTop="20dp"
+                android:text="设置管理员"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_marginBottom="10dp"
+                android:layout_weight="1"
+                android:paddingLeft="10dp"
+                android:text="管理员可有更高权限"
+                android:textColor="@color/gray_pressed"/>
+        </LinearLayout>
+
+        <ImageView
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/ic_arrow_right"/>
+    </RelativeLayout>
+
+    <View
+        style="@style/mDivideLine"/>
+</LinearLayout>

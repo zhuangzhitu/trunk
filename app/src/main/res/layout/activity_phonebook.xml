@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:jcontact="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <cn.cassan.pm.widget.TitleView
+        android:id="@+id/titleview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/white40"
+        android:clickable="true"
+        jcontact:ImageLeft="@drawable/rp_back_arrow_white"
+        jcontact:TextLeft="@string/btnBack"
+        jcontact:TitleText="@string/phone_contact"/>
+
+    <cn.cassan.pm.widget.SearchView
+        android:id="@+id/searchView"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/shape_search"
+        android:gravity="center"
+
+        />
+
+    <!--<include-->
+    <!--layout="@layout/fragment_refreshlist"/>-->
+
+    <include
+        layout="@layout/fragment_phone_book"/>
+</LinearLayout>

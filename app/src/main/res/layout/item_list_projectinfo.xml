@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/tv_news_title"
+              android:layout_width="match_parent"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_height="55dp"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dip">
+
+        <cn.cassan.pm.widget.CircleImageView
+            android:id="@+id/iv_project"
+            android:layout_width="45dip"
+            android:layout_height="45dip"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:scaleType="centerCrop"/>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:textAppearance="?android:attr/textAppearanceLarge">
+
+            <TextView
+                android:id="@+id/tv_project_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:singleLine="true"
+                tools:text="初始化测试项目"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#333333"
+                android:textSize="14sp"/>
+
+            <TextView
+                android:id="@+id/tv_project_content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginTop="3dip"
+                android:singleLine="true"
+                tools:text="组织架构"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="#999999"
+                android:textSize="12sp"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/bt_project_manage"
+            android:layout_width="50dip"
+            android:layout_height="26dip"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="15dip"
+            android:background="@drawable/btn_project_blue"
+            android:gravity="center"
+            android:text="管理"
+            android:textColor="@color/white"
+            android:textSize="12sp"
+            />
+    </LinearLayout>
+
+
+    <View
+        style="@style/h_line"
+        android:layout_marginLeft="16dp"/>
+</LinearLayout>

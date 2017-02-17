@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="ui-2.0.0-beta8">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.qiujuer.genius/ui/2.0.0-beta8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/net.qiujuer.genius/ui/2.0.0-beta8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.qiujuer.genius/ui/2.0.0-beta8/1814d5bf87a5933cb62666d09bf4397b4c6fd575/ui-2.0.0-beta8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

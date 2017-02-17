@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/grey"
+              android:orientation="vertical"
+              tools:context="cn.cassan.pm.ui.workbench.DataListActivity">
+
+
+    <cn.cassan.pm.widget.TitleView
+        android:id="@+id/titleview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@color/white40"
+        android:clickable="true"
+        app:ImageLeft="@drawable/rp_back_arrow_white"
+        app:TextLeft="@string/btnBack"
+        app:TitleText="@string/datalist"/>
+
+    <include
+        layout="@layout/fragment_refreshlist"/>
+
+</LinearLayout>
